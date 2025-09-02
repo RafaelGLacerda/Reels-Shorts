@@ -1,4 +1,4 @@
-('C:\\Users\\grigo\\Downloads\\PythonDownloader\\build\\app\\PYZ-00.pyz',
+('C:\\Users\\grigo\\Downloads\\change\\reels-shorts\\build\\app\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\grigo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__future__.py',
    'PYMODULE'),
