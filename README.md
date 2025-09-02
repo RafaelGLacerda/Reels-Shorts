@@ -1,6 +1,6 @@
-# 🎥 Video Downloader App
+# 🎥 Video Reels&Shorts App Downloader
 
----
+--- 
 
 ## 📥 Download da versão pronta (EXE)
 
