@@ -20,6 +20,7 @@ Você pode colar vários links (um por linha), escolher a pasta de destino e o p
 
 <img width="1120" height="626" alt="Captura de tela 2025-09-02 175631" src="https://github.com/user-attachments/assets/e0b1b623-eef6-4db2-8957-f0d3f26bca8f" />
 <img width="1123" height="630" alt="Captura de tela 2025-09-02 175636" src="https://github.com/user-attachments/assets/a9339fa9-792f-43eb-be34-45320ac6b285" />
+<img width="687" height="537" alt="Captura de tela 2025-09-02 182159" src="https://github.com/user-attachments/assets/56798a89-a8d7-4e00-83c9-4951f194352c" />
 
 
 ---
