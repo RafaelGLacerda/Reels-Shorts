@@ -75,10 +75,6 @@ class VideoDownloaderApp:
                                    font=("Consolas", 9))
         self.text_status.pack(padx=15, pady=5)
 
-        # Aviso sobre FFmpeg
-        if not self.ffmpeg_instalado:
-            self.log_status("⚠️ FFmpeg não encontrado. Baixando vídeos no melhor formato único disponível.\n")
-
     def choose_folder(self):
         folder = filedialog.askdirectory()
         if folder:
