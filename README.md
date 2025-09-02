@@ -12,7 +12,7 @@ Basta fazer o download, extrair (se vier zipado) e rodar o arquivo **app.exe**.
 
 ---
 
-Um aplicativo simples de desktop feito em **Python** para baixar vídeos de **Instagram, YouTube, e outras plataformas** de forma rápida e prática.  
+Um aplicativo de desktop feito em Python para baixar vídeos de Instagram, YouTube e outras plataformas de forma rápida e prática. Este projeto é apenas para estudo e é totalmente seguro — não contém malwares, vírus ou qualquer outro conteúdo malicioso.
 
 Você pode colar vários links (um por linha), escolher a pasta de destino e o programa fará o download dos vídeos com áudio e imagem, na melhor qualidade disponível.  
 
