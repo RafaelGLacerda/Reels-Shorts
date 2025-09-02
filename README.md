@@ -6,9 +6,9 @@
 
 Se você não quer mexer com código e só deseja usar o programa, baixe a versão executável já compilada:  
 
-👉 [Baixar Executável (Google Drive)](https://drive.google.com/file/d/1scU3jCQqxPZOLHVH497PMwDd7ZClulH1/view?usp=sharing)  
+👉 [Baixar Executável (Google Drive)](https://drive.google.com/file/d/18zAC6H3RS2Lck9PIOg4LWkLq1LdjBu2k/view?usp=sharing)  
 
-Basta fazer o download, extrair (se vier zipado) e rodar o arquivo **app.exe**.  
+Basta fazer o download, extrair (se vier zipado) e rodar o arquivo **Reels&Shorts.exe**.  
 
 ---
 
